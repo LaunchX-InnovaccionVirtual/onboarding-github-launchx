@@ -3,7 +3,7 @@
 
 # Inducción a Launch X by Innovacción Virtual
 
-## Objetivos 🥅
+## Objetivos 🥅 Emoji emoji
 
 Al finalizar este módulo deberás de tener: 
 - Una cuenta de GitHub.
