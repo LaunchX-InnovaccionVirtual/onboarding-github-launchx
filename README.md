@@ -12,12 +12,12 @@ Al finalizar este módulo deberás de tener:
 
 *Si ya tienes una cuenta de GitHub salta al paso no. 3*
 
-## Instrucciones
+## Instrucciones 
 
 * [ ] [1.- Crear una cuenta de GitHub](#creando-una-cuenta-de-github)
 * [ ] [2.- Verificar la cuenta de GitHub](#verificar-la-cuenta-de-correo-en-github)
 * [ ] [3.- Ingresar a la Organización](#ingresar-a-la-organizacion)
-* [ ] [4.- Taller de Git y GitHub](taller-de-github-101)
+* [ ] [4.- Taller de Git y GitHub](#taller-de-github-101)
 
 
 ## Creando una cuenta de GitHub
