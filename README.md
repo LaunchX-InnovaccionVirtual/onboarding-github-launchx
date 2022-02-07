@@ -24,7 +24,7 @@ Al finalizar este módulo deberás de tener:
 
 Ingresa a la página de [GitHub](https://github.com/) y rellena los campos que a continuación te solicitan con la siguiente información:
 
-![Página de Inicio de GitHub](https://user-images.githubusercontent.com/9124597/152575194-a19eef59-855e-49c6-8bf3-b685dba56b2d.PNG)
+![Página de Inicio de GitHub](https://user-images.githubusercontent.com/6200135/152621206-2349282f-43e8-4073-ac1e-6b70268c8bbf.png)
 
 
 **Username:** Un nombre de Usuario con el que serás identificado, te recomendamos escoger un nombre corto, puede ser algo como ```NombreApellido```. Si no está disponible puedes agregar, la letra de tu segundo apellido, un numero o algún distintivo.
@@ -37,20 +37,34 @@ Ejemplo:
 
 Una vez terminado el proceso deberás tener algo como lo que se muestra a continuación.
 
-![Formulario de GitHub de Muestra](https://user-images.githubusercontent.com/9124597/152575361-031a6b6d-53fa-4c92-a8af-cd32e3904230.PNG)
-
+![Formulario de GitHub de Muestra](https://user-images.githubusercontent.com/6200135/152621235-6745e545-5ef0-45d7-bbac-67aee549d8fd.png)
 
 Ahora procedemos a dar clic en **Sign up for GitHub** 
 
 Nos pedirá verificar que no somos un robot el que está intentando acceder, tendremos una pantalla similar. Basta con dar clic en Verificar, nos pedirá hacer Identificar un elemento en una imagen, etc.  
   
-![Verificación](https://user-images.githubusercontent.com/9124597/152575393-40fb54f5-582c-48c6-b740-3d179724b57e.PNG)
-
-
 Al terminar la verificación damos se mostrará una palomita verde y damos clic en **Join a Free Plan**  
 
 ![Verificación Correcta](https://user-images.githubusercontent.com/9124597/152575433-66dc6b80-237b-493e-995d-5c9020a35ad1.PNG)
 
+## Verificar la Cuenta de Correo en GitHub
+
+Para verificar nuestra cuenta de correo, debemos seguir estos pasos:
+
+* Tendremos en nuestra bandeja de entrada un nuevo correo electrónico de GitHub le damos clic para abrirlo.    
+    * ![Correo nuevo](https://user-images.githubusercontent.com/9124597/152575788-42ced087-9f4d-4e36-a4ff-e468758e49a0.PNG)  
+
+* El correo es el siguiente, damos clic en **Mostrar contenido bloqueado**  
+    * ![Verificar correo](https://user-images.githubusercontent.com/9124597/152575835-e37f9e3c-310d-49c8-8f89-b64947d2c6a0.PNG)  
+
+* Clic en **Verify email address**  
+    * ![Boton azul](https://user-images.githubusercontent.com/9124597/152575879-4886b644-3201-409f-8624-6393692cd9c0.PNG)  
+
+* Automáticamente nos abrirá una nueva ventana con el mensaje de que ha sido verificada nuestra cuenta.  
+    * ![Cuenta Verificada](https://user-images.githubusercontent.com/9124597/152575989-611be61e-5de0-44e4-aa61-3126a2adc420.PNG)  
+    
+* En nuestra bandeja de entrada tendremos un correo con la verificación exitosa.
+    ![Welcome](https://user-images.githubusercontent.com/9124597/152576032-1d3160f7-7887-4a30-ac90-1d8597b244c1.PNG)  
 
 A continuación tendremos que seleccionar de una serie de opciones, aquellas con las que nos identifiquemos. Por ejemplo, Estudiante.  
 
@@ -94,25 +108,6 @@ Al dar enter nos mostrará la siguiente pantalla, informando que debemos verific
 
 ![Ventana de verificación de correo electrónico](https://user-images.githubusercontent.com/9124597/152575667-4dd55fd2-56e4-43be-9dd1-7d79ed43b580.PNG)
 
-
-## Verificar la Cuenta de Correo en GitHub
-
-Para verificar nuestra cuenta de correo, debemos seguir estos pasos:
-
-* Tendremos en nuestra bandeja de entrada un nuevo correo electrónico de GitHub le damos clic para abrirlo.    
-    * ![Correo nuevo](https://user-images.githubusercontent.com/9124597/152575788-42ced087-9f4d-4e36-a4ff-e468758e49a0.PNG)  
-
-* El correo es el siguiente, damos clic en **Mostrar contenido bloqueado**  
-    * ![Verificar correo](https://user-images.githubusercontent.com/9124597/152575835-e37f9e3c-310d-49c8-8f89-b64947d2c6a0.PNG)  
-
-* Clic en **Verify email address**  
-    * ![Boton azul](https://user-images.githubusercontent.com/9124597/152575879-4886b644-3201-409f-8624-6393692cd9c0.PNG)  
-
-* Automáticamente nos abrirá una nueva ventana con el mensaje de que ha sido verificada nuestra cuenta.  
-    * ![Cuenta Verificada](https://user-images.githubusercontent.com/9124597/152575989-611be61e-5de0-44e4-aa61-3126a2adc420.PNG)  
-    
-* En nuestra bandeja de entrada tendremos un correo con la verificación exitosa.
-    ![Welcome](https://user-images.githubusercontent.com/9124597/152576032-1d3160f7-7887-4a30-ac90-1d8597b244c1.PNG)  
 
 ## Ingresar a la organizacion
 *Si ya formaste parte de la organización previamente, no te llegará el correo. Sólo serás parte del nuevo equipo en GitHub*
