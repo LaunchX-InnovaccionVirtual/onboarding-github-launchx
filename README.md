@@ -138,12 +138,12 @@ Para ser parte de la organización en GitHub, debemos hacer lo siguiente:
     
 ## Taller de GitHub 101 
 
-### Parte 1
+### [Parte 1](https://www.youtube.com/watch?v=OIE9r0J1iRk)
 
 [![Enlace al video del taller de GitHub](https://user-images.githubusercontent.com/9124597/152578314-ed8eabc9-1510-49a2-bc2d-73676c95a910.PNG)](https://youtu.be/OIE9r0J1iRk "Taller de GitHub 101 parte 1")  
 
 
-### Parte 2
+### [Parte 2](https://www.youtube.com/watch?v=8B_qtbdlLSU)
 
 [![](https://user-images.githubusercontent.com/9124597/152578419-4dfe9f5c-2962-443a-9082-a3c5d31ea18e.PNG)](https://youtu.be/8B_qtbdlLSU "Taller de GitHub 101 parte 2")  
 
